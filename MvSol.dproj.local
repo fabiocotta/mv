@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/14 09:29:12.000.821,=C:\Users\fabiocotta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 09:30:14.000.823,C:\Users\fabiocotta\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\dev\mv\UntPrincipal.dfm</Transaction>
+    <Transaction>2022/02/14 09:30:14.000.823,C:\Users\fabiocotta\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\dev\mv\UntPrincipal.pas</Transaction>
+    <Transaction>2022/02/14 09:30:35.000.989,C:\Users\fabiocotta\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\dev\mv\MvSol.dproj</Transaction>
+    <Transaction>2022/02/14 09:34:48.000.314,=C:\dev\mv\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 09:35:05.000.348,C:\dev\mv\Unit1.pas=C:\dev\mv\UntDM.pas</Transaction>
+    <Transaction>2022/02/14 09:35:05.000.348,C:\dev\mv\Unit1.dfm=C:\dev\mv\UntDM.dfm</Transaction>
+    <Transaction>2022/02/14 14:28:35.000.743,=C:\dev\mv\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 14:37:03.000.373,C:\dev\mv\Unit1.pas=C:\dev\mv\UntCadDepartamentos.pas</Transaction>
+    <Transaction>2022/02/14 14:37:03.000.373,C:\dev\mv\Unit1.dfm=C:\dev\mv\UntCadDepartamentos.dfm</Transaction>
+    <Transaction>2022/02/14 15:49:18.000.325,=C:\dev\mv\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 15:54:01.000.466,C:\dev\mv\Unit1.pas=C:\dev\mv\UntCadEmpregados.pas</Transaction>
+    <Transaction>2022/02/14 15:54:01.000.466,C:\dev\mv\Unit1.dfm=C:\dev\mv\UntCadEmpregados.dfm</Transaction>
+    <Transaction>2022/02/14 21:33:51.000.059,=C:\dev\mv\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 21:34:40.000.071,C:\dev\mv\Unit1.pas=C:\dev\mv\UntRelCadEmpregados.pas</Transaction>
+    <Transaction>2022/02/14 21:34:40.000.071,C:\dev\mv\Unit1.dfm=C:\dev\mv\UntRelCadEmpregados.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
